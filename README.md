@@ -18,3 +18,14 @@ In the upcoming sections, we will walk through the process of conducting dimensi
 6) Evaluation. 
 
 A concise explanation of the distinctions between eigendecomposition and SVD will also be provided. Lastly, a comparison between our model and the sklearn model will be conducted to validate the hand-coded model robustness and assess the two underlying algorithms in an example dataset.
+
+
+## Reference
+- [sklearn.decomposition.PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
+- [skleanr.dataset.load_wine](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html#sklearn.datasets.load_wine)
+- [Singular value decomposition and principal component analysis](https://link.springer.com/content/pdf/10.1007/0-306-47815-3_5.pdf)
+- [Difference between SVD and eigendecomposition](https://math.stackexchange.com/questions/320220/intuitively-what-is-the-difference-between-eigendecomposition-and-singular-valu)
+
+- [A plant-wide industrial process control problem](https://www.sciencedirect.com/science/article/abs/pii/009813549380018I)
+
+- [Tennessee Eastman Process Simulation Dataset](https://www.kaggle.com/datasets/averkij/tennessee-eastman-process-simulation-dataset/code)
