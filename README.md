@@ -22,7 +22,6 @@ A concise explanation of the distinctions between eigendecomposition and SVD wil
 
 ## Reference
 - [sklearn.decomposition.PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
-- [skleanr.dataset.load_wine](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html#sklearn.datasets.load_wine)
 - [Singular value decomposition and principal component analysis](https://link.springer.com/content/pdf/10.1007/0-306-47815-3_5.pdf)
 - [Difference between SVD and eigendecomposition](https://math.stackexchange.com/questions/320220/intuitively-what-is-the-difference-between-eigendecomposition-and-singular-valu)
 
